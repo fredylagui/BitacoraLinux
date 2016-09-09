@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//Asistencia/controller.py=utf-8
+encoding//Clases/DB_Connect.py=utf-8
+encoding//Configuracion/Admincontroller.py=utf-8
+encoding//Configuracion/DBcontroller.py=utf-8
+encoding//Configuracion/Modcontroller.py=utf-8
+encoding//Configuracion/NetInterfacecontroller.py=utf-8
+encoding//Configuracion/Usercontroller.py=utf-8
+encoding//Configuracion/controller.py=utf-8
+encoding//InterfazUsuario/controller.py=utf-8
+encoding//InterfazUsuario/model.py=utf-8
+encoding//Login/controller.py=utf-8
+encoding//Login/model.py=utf-8
+encoding/Iniciar.py=utf-8
+encoding/Main.py=utf-8
+encoding/cleaner.py=utf-8

@@ -1,0 +1,26 @@
+﻿eth1      Link encap:Ethernet  direcciónHW 00:25:64:db:28:dd  
+          ACTIVO DIFUSIÓN MULTICAST  MTU:1500  Métrica:1
+          Paquetes RX:0 errores:0 perdidos:0 overruns:0 frame:0
+          Paquetes TX:0 errores:0 perdidos:0 overruns:0 carrier:0
+          colisiones:0 long.colaTX:1000 
+          Bytes RX:0 (0.0 B)  TX bytes:0 (0.0 B)
+
+lo        Link encap:Bucle local  
+          Direc. inet:127.0.0.1  Másc:255.0.0.0
+          Dirección inet6: ::1/128 Alcance:Anfitrión
+          ACTIVO BUCLE FUNCIONANDO  MTU:65536  Métrica:1
+          Paquetes RX:277 errores:0 perdidos:0 overruns:0 frame:0
+          Paquetes TX:277 errores:0 perdidos:0 overruns:0 carrier:0
+          colisiones:0 long.colaTX:0 
+          Bytes RX:958685 (958.6 KB)  TX bytes:958685 (958.6 KB)
+
+wlan1     Link encap:Ethernet  direcciónHW 0c:60:76:06:38:46  
+          Direc. inet:192.168.30.149  Difus.:192.168.30.255  Másc:255.255.255.0
+          Dirección inet6: fe80::e60:76ff:fe06:3846/64 Alcance:Enlace
+          ACTIVO DIFUSIÓN FUNCIONANDO MULTICAST  MTU:1500  Métrica:1
+          Paquetes RX:3744 errores:0 perdidos:7 overruns:0 frame:0
+          Paquetes TX:688 errores:0 perdidos:0 overruns:0 carrier:0
+          colisiones:0 long.colaTX:1000 
+          Bytes RX:2154755 (2.1 MB)  TX bytes:109677 (109.6 KB)
+		  
+		  
